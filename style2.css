@@ -34,26 +34,6 @@
     display: inline-block;
     margin-right: 10px;
 }
-
-@media (max-width: 1000px) {
-
-    .formulario {
-        padding-left: 50px;
-        padding-right: 50px;
-    }
-    .buttons {
-        margin-left: 10px
-    }
-    .obs{
-        padding-left: 25px;
-        padding-right: 25px;
-    }
-    img {
-        width: 1%;
-       
-    }
-}
-
 .form-slider {
     display: flex;
     justify-content: center;
